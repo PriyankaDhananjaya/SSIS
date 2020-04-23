@@ -1,0 +1,2 @@
+StoreID,StoreName,City,State,PostalCode,StoreType,StoreStatus,SellingAreaSize,CreatedDate,UpdatedDate
+401,neudesic Store,Bangalore,Karnataka,560060,Store,On,455,2009-07-01 00:00:00,2009-07-01 00:00:00

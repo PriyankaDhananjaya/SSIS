@@ -1,0 +1,306 @@
+4,Bellevue Store,Bellevue,Washington,97001,Store,On,455,2009-07-01 00:00:00,2009-07-01 00:00:00
+156,Cambridge Store,Cambridge,England,2138,Store,On,680,2009-07-06 00:00:00,2009-06-16 00:00:00
+88,Cedar Park Store,Cedar Park,Texas,70001,Store,On,455,2009-05-10 00:00:00,2009-06-18 00:00:00
+214,Leeds Store,Leeds,England,,Store,On,680,2009-05-10 00:00:00,2009-06-16 00:00:00
+201,London Store,London,England,,Store,On,462,2009-07-10 00:00:00,2009-06-16 00:00:00
+215,Paris Store,Paris,Seine (Paris),75001,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+309,Europe Reseller,Paris,Seine (Paris),535455,Reseller,On,551,2009-04-03 00:00:00,2009-04-03 00:00:00
+17,Spokane Store,Spokane,Washington,97001,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+253,Sydney No.1 Store,Sydney,New South Wales,2000,Store,On,480,2009-07-10 00:00:00,2009-06-18 00:00:00
+300,Sydney  No.2 Store,Sydney,New South Wales,59000,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+289,Vancouver  No.1 Store,Vancouver,British Columbia,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+290,Vancouver  No.2 Store,Vancouver,British Columbia,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+22,Westminster Store,Westminster,British Columbia,87001,Store,On,500,2009-07-10 00:00:00,2009-06-17 00:00:00
+6,Yakima Store,Yakima,Washington,97001,Store,On,1125,2009-07-01 00:00:00,2009-07-01 00:00:00
+204,York Store,York,England,,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+79,Baytown Store,Baytown,Texas,70001,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+228,Berlin Store,Berlin,Berlin,10178,Store,On,500,2009-05-10 00:00:00,2009-06-18 00:00:00
+306,Europe Online Store,Berlin,Berlin,10178,Online,On,1000,2009-04-03 00:00:00,2009-04-03 00:00:00
+291,Calgary  Store,Calgary,Alberta,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+16,Everett Store,Everett,Washington,97001,Store,On,462,2009-07-10 00:00:00,2009-06-16 00:00:00
+212,Liverpool Store,Liverpool,England,,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+5,Redmond Store,Redmond,Washington,97001,Store,On,560,2009-06-13 00:00:00,2009-06-13 00:00:00
+15,Renton Store,Renton,Washington,97001,Store,On,500,2009-07-10 00:00:00,2009-06-17 00:00:00
+1,Seattle No.1 Store,Seattle,Washington,97001,Store,On,462,2009-06-05 00:00:00,2009-06-05 00:00:00
+2,Seattle No.2 Store,Seattle,Washington,97001,Store,On,700,2009-06-05 00:00:00,2009-06-05 00:00:00
+308,North America Reseller,Seattle,Washington,56535,Reseller,On,450,2009-04-03 00:00:00,2009-04-03 00:00:00
+298,Ashgabat  No.2 Store,Ashgabat,Ahal Province,789000,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+264,Ashgabat No.1 Store,Ashgabat,Ahal Province,744000,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+262,Bangkok No.1 Store,Bangkok,Krung Thep,10110,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+296,Bangkok No.2 Store,Bangkok,Krung Thep,15210,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+307,Asia Online Store,Beijing,Beijing,10093,Online,On,93800,2009-04-03 00:00:00,2009-04-03 00:00:00
+310,Asia Reseller,Beijing,Beijing,25536,Reseller,On,93800,2009-04-03 00:00:00,2009-04-03 00:00:00
+279,Beijing Store,Beijing,Beijing,100007,Store,On,480,2009-07-10 00:00:00,2009-06-17 00:00:00
+276,Bishkek Store,Bishkek,Chuy Province,720005,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+275,Busan Store,Busan ,Yeongnam,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+252,Canberra Store,Canberra,Molonglo,,Store,On,480,2009-07-10 00:00:00,2009-06-17 00:00:00
+295,Damascus No.2 Store,Damascus,Damascus,36805,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+261,Damascus No.1 Store,Damascus,Damascus,35005,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+280,Guangzhou Store,Guangzhou,GuangDong,510000,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+293,Hong Kong No.2 Store,Hong Kong,Hong Kong,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+259,Hong Kong No.1 Store,Hong Kong,Hong Kong,,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+265,Islamabad No.1 Store,Islamabad,Islamabad Capital Territory,10086,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+299,Islamabad  No.2 Store,Islamabad,Islamabad Capital Territory,15890,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+257,Kolkata Store,Kolkata ,West Bengal,700017,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+273,Kyoto Store,Kyoto ,Kansai,,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+256,Mumbai Store,Mumbai ,Maharashtra,201901,Store,On,480,2009-07-10 00:00:00,2009-06-16 00:00:00
+271,Nagoya Store,Nagoya ,Chubu,40175,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+255,New Delhi Store,New Delhi,National Capital Territory of Delhi,110005,Store,On,480,2009-07-10 00:00:00,2009-06-17 00:00:00
+270,Osaka No.1 Store,Osaka ,Kansai,39894,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+301,Osaka No.2 Store,Osaka ,Kansai,89094,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+272,Sapporo Store,Sapporo ,Hokkaido,39864,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+274,Seoul Store,Seoul,Seoul-jikhalsi,57,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+277,Shanghai No.1 Store,Shanghai,Shanghai,201800,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+281,Shanghai No.2 Store,Shanghai,Shanghai,201800,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+251,Singapore Store,Singapore,Singapore,302699,Store,On,480,2009-07-10 00:00:00,2009-06-16 00:00:00
+302,Taipei  Store,Taipei,Taiwan,109807,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+260,Tehran No.1 Store,Tehran,Tehran,1698530,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+294,Tehran No.2 Store,Tehran,Tehran,1698556,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+292,Thimphu No.2 Store,Thimphu,Thimphu District,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+258,Thimphu No.1 Store,Thimphu,Thimphu District,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+267,Tokyo No.1 Store,Tokyo,Kanto,,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+268,Tokyo No.2 Store,Tokyo,Kanto,,Store,On,480,2008-12-10 00:00:00,2009-06-16 00:00:00
+278,Urumqi Store,Urumqi,Xinjiang,830000,Store,On,480,2009-07-06 00:00:00,2009-06-16 00:00:00
+254,Yerevan Store,Yerevan,Armenia,10,Store,On,480,2009-07-10 00:00:00,2009-06-16 00:00:00
+269,Yokohama Store,Yokohama ,Kanto,,Store,On,480,2008-12-10 00:00:00,2009-06-17 00:00:00
+240,Amsterdam Store,Amsterdam,Noord-Holland,,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+250,Athens Store,Athens,Central Greece and Evvoia,10559,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+209,Baildon Store,Baildon,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+236,Baumholder Store,Baumholder,Rhineland-Palatinate,55774,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+246,Berne Store,Berne,Bern,,Store,On,680,2009-07-06 00:00:00,2009-06-16 00:00:00
+245,Bucharest Store,Bucharest,Bucuresti,30583,Store,On,680,2009-07-06 00:00:00,2009-06-17 00:00:00
+205,Carlisle Store,Carlisle,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+210,Cheshire Store,Cheshire,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+241,Copenhagen Store,Copenhagen,Staden Kobenhavn,,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+249,Dublin Store,Dublin,Leinster,,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+234,Dusseldorf Store,Dusseldorf,North Rhine-Westphalia,40229,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+202,Edinburgh Store,Edinburgh,Scotland,,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+224,Firenze Store,Firenze,Province of Florence,50122,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+237,Giebelstadt Store,Giebelstadt,Bavaria,97232,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+203,Glasgow Store,Glasgow,Scotland,,Store,On,680,2009-07-10 00:00:00,2009-06-18 00:00:00
+231,Hofheim Store,Hofheim am Taunus,Hesse,65719,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+213,Knotty Ash Store,Knotty Ash,England ,,Store,On,680,2009-05-10 00:00:00,2009-06-18 00:00:00
+232,koln No.1 Store,Koln,North Rhine-Westphalia,50823,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+230,koln No.2 Store,Koln,North Rhine-Westphalia,50672,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+207,Lancashire Store,Lancashire,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+233,Landstuhl Store,Landstuhl,Rhineland-Palatinate,66917,Store,On,500,2009-05-10 00:00:00,2009-06-18 00:00:00
+303,Lisbon Store,Lisbon,Lisboa Region,189076,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+244,Ljubljana Store,Ljubljana,Ljubljana,1000,Store,On,680,2009-07-06 00:00:00,2009-06-16 00:00:00
+217,Lyon Store,Lyon,Rhone-Alpes ,69002,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+243,Madrid Store,Madrid,Madrid,28049,Store,On,680,2009-07-06 00:00:00,2009-06-18 00:00:00
+206,Manchester Store,Manchester,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+216,Marseille Store,Marseille,Provence-Alpes-Cote d'Azur,13006,Store,On,680,2009-05-10 00:00:00,2009-06-16 00:00:00
+226,Milan Store,Milan,Lombardia,20149,Store,On,500,2009-07-10 00:00:00,2009-06-16 00:00:00
+263,Moscow  No.1 Store,Moscow,Moskovskaya oblast,107031,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+297,Moscow  No.2 Store,Moscow,Moskovskaya oblast,107561,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+239,Munich Store,Munich,Bavaria,80331,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+220,Nantes Store,Nantes,Pays de la Loire,44000,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+219,Nice Store,Nice,Alpes-Maritimes,51000,Store,On,680,2009-05-10 00:00:00,2009-06-16 00:00:00
+305,Nizhny Novgorod Store,Nizhny Novgorod ,Nizhny Novgorod Oblast,147820,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+238,obamberg Store,Bamberg,Bavaria,96049,Store,On,500,2009-05-10 00:00:00,2009-06-18 00:00:00
+235,Ramstein Store,Ramstein,Rhineland-Palatinate,66877,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+222,Roma Store,Roma,Roma,192,Store,On,490,2009-05-10 00:00:00,2009-06-17 00:00:00
+304,Saint Petersburg Store,Saint Petersburg,Northwestern,2014522,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+242,Stockholm Store,Stockholm,Stockholms,11145,Store,On,680,2009-07-06 00:00:00,2009-06-17 00:00:00
+211,Stockport Store,Stockport,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+221,Strasbourg Store,Strasbourg,Bas-Rhin,67000,Store,On,630,2009-05-10 00:00:00,2009-06-16 00:00:00
+225,Torino Store,Torino,Province of Turin,10141,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+218,Toulouse Store,Toulouse,Midi-Pyrenees,31000,Store,On,680,2009-05-10 00:00:00,2009-06-18 00:00:00
+248,Valletta Store,Valletta,Valletta,,Store,On,680,2009-07-06 00:00:00,2009-06-18 00:00:00
+223,Venezia Store,Venezia,Venice,30124,Store,On,500,2009-05-10 00:00:00,2009-06-18 00:00:00
+247,Warsaw Store,Warsaw,Warszawa,,Store,On,680,2009-07-06 00:00:00,2009-06-17 00:00:00
+208,West Yorkshire Store,West Yorkshire,England ,,Store,On,680,2009-07-10 00:00:00,2009-06-18 00:00:00
+114,Albany Store,Albany,New York,12207,Store,On,1125,2008-12-10 00:00:00,2009-06-16 00:00:00
+184,Alexandria Store,Alexandria,Virginia,22302,Store,Off,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+183,Anchorage Store,Anchorage,Alaska,,Store,On,1125,2009-05-10 00:00:00,2009-06-18 00:00:00
+191,Annapolis Store,Annapolis,Maryland,21401,Store,On,500,2009-07-06 00:00:00,2009-06-16 00:00:00
+43,Appleton Store,Appleton,Wisconsin,54001,Store,On,560,2009-07-10 00:00:00,2009-06-18 00:00:00
+93,Arlington Store,Arlington,Texas,75201,Store,On,700,2009-05-10 00:00:00,2009-06-18 00:00:00
+141,Atlantic City Store,Atlantic City ,New Jersey,8401,Store,On,680,2008-12-10 00:00:00,2009-06-16 00:00:00
+150,Attleboro Store,Attleboro,Massachusetts,2703,Store,On,455,2008-12-10 00:00:00,2009-06-17 00:00:00
+40,Aurora Store,Aurora,Colorado,87001,Store,On,700,2009-05-10 00:00:00,2009-06-17 00:00:00
+86,Austin Store,Austin,Texas,70001,Store,On,700,2009-05-10 00:00:00,2009-06-16 00:00:00
+197,Back River Store,Back River,Maryland,21219,Store,On,560,2009-07-06 00:00:00,2009-06-17 00:00:00
+81,Bacliff Store,Bacliff,Texas,70001,Store,On,455,2009-05-10 00:00:00,2009-06-16 00:00:00
+192,Baltimore Store,Baltimore,Maryland,21201,Store,On,460,2009-07-06 00:00:00,2009-06-17 00:00:00
+166,Bangor Store,Bangor,Maine,4401,Store,On,560,2009-07-10 00:00:00,2009-06-16 00:00:00
+167,Bar Harbor Store,Bar Harbor,Maine,4609,Store,On,1125,2009-07-10 00:00:00,2009-06-17 00:00:00
+137,Bayonne Store,Bayonne ,New Jersey,7002,Store,On,1125,2009-07-10 00:00:00,2009-06-17 00:00:00
+78,Beaumont No.2 Store,Beaumont,Texas,70001,Store,On,700,2009-05-10 00:00:00,2009-06-18 00:00:00
+76,Beaumont No.1 Store,Beaumont,Texas,70001,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+33,Berthoud Store,Berthoud,Colorado,87001,Store,On,680,2009-05-10 00:00:00,2009-06-18 00:00:00
+199,North America Online Store,Bethesda,Maryland,20817,Online,On,500,2009-07-10 00:00:00,2009-06-16 00:00:00
+173,Bridgeport Store,Bridgeport,Connecticut,6604,Store,On,455,2009-07-10 00:00:00,2009-06-18 00:00:00
+146,Boston Store,Boston,Massachusetts,2210,Store,On,460,2008-12-10 00:00:00,2009-06-16 00:00:00
+37,Boulder Store,Boulder,Colorado,87001,Store,On,1125,2009-05-10 00:00:00,2009-06-17 00:00:00
+121,Brooklyn Store,Brooklyn,New York,11238,Store,On,1125,2008-12-10 00:00:00,2009-06-16 00:00:00
+119,Buffalo Store,Buffalo,New York,14203,Store,Off,455,2008-12-10 00:00:00,2009-06-16 00:00:00
+52,Burlington Store,Burlington,Wisconsin,54001,Store,On,1125,2009-07-10 00:00:00,2009-06-17 00:00:00
+113,Cape Canaveral Store,Cape Canaveral,Florida,32920,Store,On,560,2008-12-10 00:00:00,2009-06-18 00:00:00
+145,Cape May Store,Cape May,New Jersey,8204,Store,On,500,2008-12-10 00:00:00,2009-06-17 00:00:00
+28,Castle Rock Store,Castle Rock,Colorado,87001,Store,On,560,2009-07-10 00:00:00,2009-06-18 00:00:00
+190,Charleston Store,Charleston ,South Carolina,29406,Store,On,1125,2009-07-10 00:00:00,2009-06-17 00:00:00
+186,Charlottesville Store,Charlottesville ,Virginia,22903,Store,On,700,2009-05-10 00:00:00,2009-06-16 00:00:00
+19,Cheney Store,Cheney,Washington,97001,Store,Off,455,2009-07-10 00:00:00,2009-06-16 00:00:00
+11,Cle Elum Store,Cle Elum,Washington,97001,Store,On,680,2009-02-11 00:00:00,2009-07-01 00:00:00
+134,Clifton Store,Clifton,New Jersey,7013,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+90,Dallas Store,Dallas,Texas,75201,Store,On,1125,2009-05-10 00:00:00,2009-06-17 00:00:00
+176,Darien Store,Darien,Connecticut,6820,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+98,Denton Store,Denton,Texas,75201,Store,On,1125,2009-07-06 00:00:00,2009-06-18 00:00:00
+34,Denver No.1 Store,Denver,Colorado,87001,Store,On,680,2009-05-10 00:00:00,2009-06-16 00:00:00
+35,Denver No.2 Store,Denver,Colorado,87001,Store,On,455,2009-05-10 00:00:00,2009-06-17 00:00:00
+36,Denver No.3 Store,Denver,Colorado,87001,Store,On,560,2009-05-10 00:00:00,2009-06-16 00:00:00
+95,Desoto Store,Desoto,Texas,75201,Store,On,680,2009-07-06 00:00:00,2009-06-17 00:00:00
+135,East Orange Store,East Orange ,New Jersey,7017,Store,On,455,2009-07-10 00:00:00,2009-06-17 00:00:00
+53,East Troy Store,East Troy,Wisconsin,54001,Store,On,500,2009-07-10 00:00:00,2009-06-18 00:00:00
+63,Edgerton Store,Edgerton,Wisconsin,54001,Store,On,700,2009-07-10 00:00:00,2009-06-18 00:00:00
+126,Elmira Store,Elmira,New York,14901,Store,On,680,2008-12-10 00:00:00,2009-06-16 00:00:00
+20,Englewood Store,Englewood,Colorado,87001,Store,On,560,2009-07-10 00:00:00,2009-06-17 00:00:00
+14,Fall City Store,Fall City,Washington,97001,Store,On,1125,2009-07-10 00:00:00,2009-06-16 00:00:00
+163,Falmouth Store,Falmouth,Massachusetts,2540,Store,On,700,2009-07-10 00:00:00,2009-06-18 00:00:00
+46,Fond du Lac Store,Fond du Lac,Wisconsin,54001,Store,On,460,2009-07-06 00:00:00,2009-06-16 00:00:00
+64,Fort Atkinson Store,Fort Atkinson,Wisconsin,54001,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+30,Fort Collins Store,Fort Collins,Colorado,87001,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+109,Fort Lauderdale Store,Fort Lauderdale,Florida,33304,Store,On,700,2009-07-10 00:00:00,2009-06-16 00:00:00
+99,Fort Worth Store,Fort Worth,Texas,75201,Store,On,500,2009-07-06 00:00:00,2009-06-16 00:00:00
+155,Framingham Store,Framingham,Massachusetts,1701,Store,On,700,2009-07-06 00:00:00,2009-06-17 00:00:00
+187,Fredericksburg Store,Fredericksburg,Virginia,22401,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+91,Georgetown Store,Georgetown,Texas,75201,Store,On,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+55,Germantown Store,Germantown,Maryland,54001,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+198,North Harford Store,Germantown,Maryland,20874,Store,On,1125,2009-07-10 00:00:00,2009-06-18 00:00:00
+23,Grand Junction Store,Grand Junction,Colorado,87001,Store,On,460,2009-07-10 00:00:00,2009-06-18 00:00:00
+94,Grand Prairie Store,Grand Prairie,Texas,75201,Store,On,700,2009-07-10 00:00:00,2009-06-16 00:00:00
+7,Granger Store,Granger,Washington,97001,Store,On,500,2009-02-11 00:00:00,2009-01-03 00:00:00
+25,Greeley  No.1 Store,Greeley,Colorado,80631,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+31,Greeley No.2 Store,Greeley,Colorado,80631,Store,On,462,2009-05-10 00:00:00,2009-06-16 00:00:00
+42,Green Bay Store,Green Bay,Wisconsin,54001,Store,On,455,2009-05-10 00:00:00,2009-06-17 00:00:00
+189,Greenville Store,Greenville,South Carolina,29601,Store,On,560,2009-05-10 00:00:00,2009-06-16 00:00:00
+140,Hackensack Store,Hackensack ,New Jersey,7601,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+172,Hartford Store,Hartford,Connecticut,6103,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+158,Haverhill Store,Haverhill,Massachusetts,1832,Store,On,455,2009-07-06 00:00:00,2009-06-18 00:00:00
+92,Hillsboro Store,Hillsboro,Texas,75201,Store,On,460,2009-05-10 00:00:00,2009-06-17 00:00:00
+153,Hingham Store,Hingham,Massachusetts,2043,Store,On,500,2009-07-10 00:00:00,2009-06-18 00:00:00
+143,Hoboken Store,Hoboken ,New Jersey,7030,Store,On,560,2008-12-10 00:00:00,2009-06-18 00:00:00
+161,Holyoke Store,Holyoke,Massachusetts,1040,Store,On,500,2009-07-10 00:00:00,2009-06-16 00:00:00
+66,Houston No.1 Store,Houston,Texas,70001,Store,On,560,2009-05-10 00:00:00,2009-06-16 00:00:00
+67,Houston No.2 Store,Houston,Texas,70001,Store,On,1125,2009-05-10 00:00:00,2009-06-17 00:00:00
+68,Houston No.3 Store,Houston,Texas,70001,Store,On,500,2009-05-10 00:00:00,2009-06-18 00:00:00
+69,Houston No.4 Store,Houston,Texas,70001,Store,On,460,2009-05-10 00:00:00,2009-06-16 00:00:00
+193,Howard Store,Howard,Maryland,21794,Store,On,700,2009-07-06 00:00:00,2009-06-18 00:00:00
+84,Humble Store,Humble,Texas,70001,Store,Off,500,2009-05-10 00:00:00,2009-06-16 00:00:00
+123,Ithaca Store,Ithaca,New York,14850,Store,On,460,2008-12-10 00:00:00,2009-06-18 00:00:00
+103,Jacksonville Store,Jacksonville,Florida,32254,Store,On,680,2009-07-10 00:00:00,2009-06-18 00:00:00
+132,Jersey City Store,Jersey City,New Jersey,7304,Store,On,700,2009-07-06 00:00:00,2009-06-17 00:00:00
+168,Kennebunkport Store,Kennebunkport,Maine,4046,Store,On,500,2009-07-10 00:00:00,2009-06-18 00:00:00
+3,Kennewick Store,Kennewick,Washington,97001,Store,On,680,2008-11-21 00:00:00,2008-11-21 00:00:00
+112,Key West Store,Key West,Florida,33040,Store,Off,455,2008-12-10 00:00:00,2009-06-17 00:00:00
+80,La Porte Store,La Porte,Texas,70001,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+27,Lafayette Store,Lafayette,Colorado,87001,Store,On,455,2009-07-10 00:00:00,2009-06-17 00:00:00
+108,Lakeland Store,Lakeland,Florida,33815,Store,On,460,2009-07-10 00:00:00,2009-06-18 00:00:00
+152,Leominster Store,Leominster,Massachusetts,1453,Store,On,1125,2008-12-10 00:00:00,2009-06-17 00:00:00
+169,Lewiston Store,Lewiston,Maine,4240,Store,On,460,2009-07-10 00:00:00,2009-06-16 00:00:00
+97,Lewisville Store,Lewisville,Texas,75201,Store,On,560,2009-07-06 00:00:00,2009-06-17 00:00:00
+178,Litchfield County Store,Litchfield County,Connecticut,6759,Store,On,700,2009-05-10 00:00:00,2009-06-18 00:00:00
+39,Littleton Store,Littleton,Colorado,87001,Store,On,462,2009-05-10 00:00:00,2009-06-16 00:00:00
+75,Longview Store,Longview,Texas,70001,Store,On,1125,2009-05-10 00:00:00,2009-06-17 00:00:00
+26,Loveland Store,Loveland,Colorado,87001,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+151,Lowell Store,Lowell,Massachusetts,1852,Store,On,560,2008-12-10 00:00:00,2009-06-16 00:00:00
+159,Lynn Store,Lynn,Massachusetts,1904,Store,On,560,2009-07-06 00:00:00,2009-06-16 00:00:00
+60,Madison Store,Madison,Wisconsin,54001,Store,On,1125,2009-07-10 00:00:00,2009-06-17 00:00:00
+59,Manitowoc Store,Manitowoc,Wisconsin,54001,Store,On,560,2009-07-10 00:00:00,2009-06-16 00:00:00
+74,Marshall Store,Marshall,Texas,70001,Store,On,560,2009-05-10 00:00:00,2009-06-16 00:00:00
+188,Martinsville Store,Martinsville ,Virginia,24112,Store,On,455,2009-05-10 00:00:00,2009-06-18 00:00:00
+44,Menasha Store,Menasha,Wisconsin,54001,Store,On,1125,2009-07-06 00:00:00,2009-06-16 00:00:00
+101,Miami No.1 Store,Miami,Florida,33128,Store,On,462,2009-07-06 00:00:00,2009-06-16 00:00:00
+102,Miami No.2 Store,Miami,Florida,33128,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+70,Midland Store,Midland,Texas,70001,Store,On,700,2009-05-10 00:00:00,2009-06-17 00:00:00
+32,Milliken Store,Milliken,Colorado,87001,Store,On,700,2009-05-10 00:00:00,2009-06-17 00:00:00
+47,Milwaukee No.1 Store,Milwaukee,Wisconsin,54001,Store,On,700,2009-07-06 00:00:00,2009-06-17 00:00:00
+48,Milwaukee No.2 Store,Milwaukee,Wisconsin,54001,Store,Off,700,2009-07-06 00:00:00,2009-06-18 00:00:00
+49,Milwaukee No.3 Store,Milwaukee,Wisconsin,54001,Store,On,680,2009-07-06 00:00:00,2009-06-16 00:00:00
+72,Minden Store,Minden,Texas,70001,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+142,Montclair Store,Montclair ,New Jersey,7042,Store,On,455,2008-12-10 00:00:00,2009-06-17 00:00:00
+287,Montreal No.1 Store,Montreal,Quebec,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+288,Montreal No.2 Store,Montreal,Quebec,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+144,Morristown Store,Morristown ,New Jersey,7960,Store,On,1125,2008-12-10 00:00:00,2009-06-16 00:00:00
+165,Nantucket Store,Nantucket,Massachusetts,2554,Store,On,455,2009-07-10 00:00:00,2009-06-17 00:00:00
+227,Naples Store,Naples,Florida,20124,Store,On,500,2009-05-10 00:00:00,2009-06-17 00:00:00
+149,New Bedford Store,New Bedford,Massachusetts,2740,Store,On,680,2008-12-10 00:00:00,2009-06-16 00:00:00
+139,New Brunswick Store,New Brunswick ,New Jersey,8901,Store,On,462,2009-07-10 00:00:00,2009-06-16 00:00:00
+24,New Castle Store,New Castle,Colorado,87001,Store,On,700,2009-07-10 00:00:00,2009-06-16 00:00:00
+177,New Haven Store,New Haven ,Connecticut,6511,Store,On,462,2009-05-10 00:00:00,2009-06-17 00:00:00
+179,New London Store,New London,Connecticut,6320,Store,On,680,2009-05-10 00:00:00,2009-06-16 00:00:00
+115,New York No.1 Store,New York,New York,10018,Store,On,500,2008-12-10 00:00:00,2009-06-17 00:00:00
+117,New York No.2 Store,New York,New York,10018,Store,On,700,2008-12-10 00:00:00,2009-06-17 00:00:00
+130,Newark No.1 Store,Newark,New Jersey,7102,Store,On,500,2008-12-10 00:00:00,2009-06-17 00:00:00
+131,Newark No.2 Store,Newark,New Jersey,7102,Store,On,462,2009-07-06 00:00:00,2009-06-16 00:00:00
+180,Norfolk Store,Norfolk,Virginia,23504,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+12,North Bend Store,North Bend,Washington,97001,Store,Off,455,2009-05-25 00:00:00,2009-05-25 00:00:00
+200,Catalog Store,North Harford,Maryland,21234,Catalog,On,462,2009-07-10 00:00:00,2009-06-17 00:00:00
+160,Northampton Store,Northampton,Massachusetts,1062,Store,On,1125,2009-07-06 00:00:00,2009-06-17 00:00:00
+175,Old Saybrook Store,Old Saybrook,Connecticut,6475,Store,On,1125,2009-07-10 00:00:00,2009-06-17 00:00:00
+77,Orange Store,Orange,Texas,70001,Store,On,462,2009-05-10 00:00:00,2009-06-17 00:00:00
+61,Oregon Store,Oregon,Wisconsin,54001,Store,On,500,2009-07-10 00:00:00,2009-06-16 00:00:00
+110,Orlando Store,Orlando,Florida,32803,Store,On,700,2008-12-10 00:00:00,2009-06-17 00:00:00
+170,Orono Store,Orono,Maine,4473,Store,On,700,2009-07-10 00:00:00,2009-06-17 00:00:00
+45,Oshkosh Store,Oshkosh,Wisconsin,54001,Store,On,500,2009-07-06 00:00:00,2009-06-17 00:00:00
+122,Oswego Store,Oswego,New York,13126,Store,On,500,2008-12-10 00:00:00,2009-06-17 00:00:00
+282,Ottawa No.1 Store,Ottawa,Ontario,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+283,Ottawa No.2 Store,Ottawa,Ontario,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+41,Parker Store,Parker,Colorado,54001,Store,On,680,2009-05-10 00:00:00,2009-06-16 00:00:00
+196,Parkville Store,Parkville,Maryland,21234,Store,On,455,2009-07-06 00:00:00,2009-06-16 00:00:00
+83,Pasadena Store,Pasadena,Texas,70001,Store,On,1125,2009-05-10 00:00:00,2009-06-18 00:00:00
+136,Passaic Store,Passaic ,New Jersey,7055,Store,On,560,2009-07-10 00:00:00,2009-06-16 00:00:00
+133,Paterson Store,Paterson,New Jersey,7505,Store,On,680,2009-07-10 00:00:00,2009-06-18 00:00:00
+162,Pittsfield Store,Pittsfield,Massachusetts,1201,Store,Off,462,2009-07-10 00:00:00,2009-06-17 00:00:00
+100,Plano Store,Plano,Texas,75201,Store,On,462,2009-07-06 00:00:00,2009-06-17 00:00:00
+120,Plattsburgh Store,Plattsburgh,New York,12901,Store,On,560,2008-12-10 00:00:00,2009-06-17 00:00:00
+127,Poestenkill Store,Poestenkill,New York,12140,Store,On,455,2008-12-10 00:00:00,2009-06-17 00:00:00
+57,Port Washington Store,Port Washington,Wisconsin,54001,Store,On,680,2009-07-10 00:00:00,2009-06-17 00:00:00
+164,Provincetown Store,Provincetown,Massachusetts,2657,Store,On,680,2009-07-10 00:00:00,2009-06-16 00:00:00
+195,Queen Anne's County Store,Queen Anne's County,Maryland,21617,Store,On,680,2009-07-06 00:00:00,2009-06-17 00:00:00
+125,Queens Store,Queens,New York,11432,Store,On,700,2008-12-10 00:00:00,2009-06-17 00:00:00
+154,Quincy Store,Quincy,Massachusetts,2169,Store,On,462,2009-07-06 00:00:00,2009-06-16 00:00:00
+51,Racine No.1 Store,Racine,Wisconsin,54001,Store,On,560,2009-07-10 00:00:00,2009-06-16 00:00:00
+65,Racine No.2 Store,Racine,Wisconsin,54025,Store,On,455,2009-07-10 00:00:00,2009-06-17 00:00:00
+96,Richardson Store,Richardson,Texas,75201,Store,On,455,2009-07-06 00:00:00,2009-06-16 00:00:00
+194,Ridgely Store,Ridgely,Maryland,21660,Store,On,700,2009-07-06 00:00:00,2009-06-16 00:00:00
+185,Roanoke Store,Roanoke,Virginia,24011,Store,On,462,2009-05-10 00:00:00,2009-06-17 00:00:00
+116,Rochester No.1 Store,Rochester,New York,14608,Store,On,462,2008-12-10 00:00:00,2009-06-16 00:00:00
+124,Rochester No.2 Store,Rochester,New York,14608,Store,On,700,2008-12-10 00:00:00,2009-06-16 00:00:00
+89,Round Rock Store,Round Rock,Texas,70001,Store,On,560,2009-05-10 00:00:00,2009-06-16 00:00:00
+71,Russellville Store,Russellville,Texas,70001,Store,On,700,2009-05-10 00:00:00,2009-06-16 00:00:00
+87,San Antonio Store,San Antonio,Texas,70001,Store,On,680,2009-05-10 00:00:00,2009-06-17 00:00:00
+107,Sebring Store,Sebring,Florida,33870,Store,On,500,2009-07-10 00:00:00,2009-06-17 00:00:00
+29,Sedalia Store,Sedalia,Colorado,87001,Store,Off,1125,2009-05-10 00:00:00,2009-06-16 00:00:00
+58,Sheboygan Store,Sheboygan,Wisconsin,54001,Store,On,455,2009-07-10 00:00:00,2009-06-18 00:00:00
+73,Shreveport Store,Shreveport,Texas,70001,Store,On,455,2009-05-10 00:00:00,2009-06-18 00:00:00
+13,Snoqualmie Store,Snoqualmie,Washington,97001,Store,On,560,2009-05-25 00:00:00,2009-05-25 00:00:00
+157,Somerville Store,Somerville,Massachusetts,2145,Store,On,680,2009-07-06 00:00:00,2009-06-17 00:00:00
+171,South Portland Store,South Portland,Maine,4106,Store,On,700,2009-07-10 00:00:00,2009-06-16 00:00:00
+85,Spring Store,Spring,Texas,70001,Store,On,462,2009-05-10 00:00:00,2009-06-17 00:00:00
+62,Stoughton Store,Stoughton,Wisconsin,54001,Store,Off,462,2009-07-10 00:00:00,2009-06-17 00:00:00
+8,Sunnyside Store,Sunnyside,Washington,97001,Store,On,460,2009-02-11 00:00:00,2009-06-13 00:00:00
+118,Syracuse Store,Syracuse,New York,13203,Store,On,680,2008-12-10 00:00:00,2009-06-18 00:00:00
+104,Tallahassee No.1 Store,Tallahassee,Florida,32301,Store,On,455,2009-07-10 00:00:00,2009-06-16 00:00:00
+105,Tallahassee No.2 Store,Tallahassee,Florida,32301,Store,On,560,2009-07-10 00:00:00,2009-06-17 00:00:00
+111,Tampa Store,Tampa,Florida,33605,Store,On,680,2008-12-10 00:00:00,2009-06-16 00:00:00
+82,Texas City Store,Texas City,Texas,70001,Store,On,560,2009-05-10 00:00:00,2009-06-17 00:00:00
+38,Thornton Store,Thornton,Colorado,87001,Store,On,500,2009-05-10 00:00:00,2009-06-18 00:00:00
+9,Toppenish Store,Toppenish,Washington,97001,Store,On,700,2009-02-11 00:00:00,2009-06-25 00:00:00
+284,Toronto No.1 Store,Toronto,Ontario,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+285,Toronto No.2 Store,Toronto,Ontario,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+286,Toronto No.3 Store,Toronto,Ontario,,Store,On,480,2008-12-10 00:00:00,2009-06-18 00:00:00
+128,Trenton No.1 Store,Trenton,New Jersey,8608,Store,On,560,2008-12-10 00:00:00,2009-06-18 00:00:00
+129,Trenton No.2 Store,Trenton,New Jersey,8608,Store,Off,1125,2008-12-10 00:00:00,2009-06-16 00:00:00
+18,Veradale Store,Veradale,Washington,97001,Store,On,680,2009-07-10 00:00:00,2009-06-18 00:00:00
+138,Vineland Store,Vineland,New Jersey,8360,Store,On,500,2009-07-10 00:00:00,2009-06-18 00:00:00
+181,Virginia Beach Store,Virginia Beach,Virginia,23451,Store,On,455,2009-05-10 00:00:00,2009-06-16 00:00:00
+10,Wapato Store,Wapato,Washington,97001,Store,On,700,2009-02-11 00:00:00,2009-06-05 00:00:00
+174,Waterbury Store,Waterbury,Connecticut,6702,Store,On,560,2009-07-10 00:00:00,2009-06-16 00:00:00
+54,Waukesha No.2 Store,Waukesha,Wisconsin,54014,Store,On,462,2009-07-10 00:00:00,2009-06-16 00:00:00
+50,Waukesha No.1 Store,Waukesha,Wisconsin,54001,Store,On,455,2009-07-06 00:00:00,2009-06-17 00:00:00
+21,Wheat Ridge Store,Wheat Ridge,Colorado,87001,Store,On,1125,2009-07-10 00:00:00,2009-06-16 00:00:00
+182,Winchester Store,Winchester,Virginia,22601,Store,On,560,2009-05-10 00:00:00,2009-06-17 00:00:00
+147,Worcester No.1 Store,Worcester,Massachusetts,1608,Store,On,700,2008-12-10 00:00:00,2009-06-17 00:00:00
+148,Worcester No.2 Store,Worcester,Massachusetts,1608,Store,Off,700,2008-12-10 00:00:00,2009-06-18 00:00:00
